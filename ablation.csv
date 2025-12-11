@@ -1,0 +1,3 @@
+variant,macro_f1,accuracy
+raw_cbow,0.515,0.5167
+lemma_cbow,0.5361,0.5389
